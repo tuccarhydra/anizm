@@ -1,0 +1,1445 @@
+@media screen and (min-width:1366px) {
+  footer{
+     width:100%;
+     height:100px;
+     background-color:#070707;
+     margin-top:580px;
+  }
+  /*menü ayar*/
+  .menul{
+     position: absolute;
+     left:10px;
+     top:10px;
+  }
+  .menu-chibi{
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 25%;
+  }
+  /*menü ayar son*/
+ /*içerik*/
+ 
+ /*icerik son*/
+ .item{
+    border:1px solid rgb(161, 44, 197);
+    width:130px;
+    height:195px;
+    background-color:red;
+ }
+ .donenmenu{
+    width:700px;
+    height:200px;
+    position:absolute;
+    margin-top:-280px;
+    margin-left:50px;
+ }
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 30px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:1240px;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:1140px;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+    margin-top:330px;
+    margin-left:1080px;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:200px;
+    height:200px;
+ }
+ #reklam3{ /*menu yanı reklam*/
+  margin-top:-690px;
+  margin-left:58%;
+  position:absolute;
+  border:2px solid rgb(161, 44, 197);
+  width:468px;
+  height:60px;
+}
+ /*reklam son*/
+ /*Katagoriler */
+ 
+ .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:130px;
+    margin-left:1060px;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:480px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-top:90px;
+    margin-left:1060px;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+  /*Katagoriler Son*/
+  /*Anime Açıklama */
+  .anime-aciklamasi-resim{
+    border: 2px solid blueviolet;
+    border-right:0 solid red;
+    width: 220px;
+    height: 230px;
+    margin-left: 170px;
+    margin-top: 100px;
+  }
+  .anime-iframe-deyis{
+    border: 0px solid blueviolet;
+    border-right:0 solid red;
+    border-top:0 solid red;
+    width:220px;
+    height: 368px;
+    float: left;
+    margin-left: 170px;
+   }
+   .anime-aciklamasi-iframe{
+    border: 2px solid blueviolet;
+    width: 500px;
+    height: 600px;
+    float: left;
+    margin-top: -234px;
+  }
+  .anime-iframe-deyis button{
+    width: 90%;
+    height: 30px;
+    background-color: #131313;
+    color:#fff;
+    margin-top: 10px;
+    border: 2px solid blueviolet;
+  }
+  .anime-iframe-deyis button:hover{
+    background-color: blueviolet;
+  }
+   /*Anime Açıklama Son*/
+
+
+}
+@media screen and (min-width:1251px) and (max-width:1365px){
+  footer{
+     width:100%;
+     height:100px;
+     background-color:#070707;
+     margin-top:600px;
+  }
+  /* menü ayar */
+  .menul{
+     position: absolute;
+     left:10px;
+     top:10px;
+  }
+  .menu-chibi{
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 7%;
+  }
+  /* menü ayar son*/
+ /*icerik son*/
+ .item{
+    border:1px solid rgb(161, 44, 197);
+    width:130px;
+    height:195px;
+    background-color:red;
+ }
+ .donenmenu{
+    width:700px;
+    height:200px;
+    position:absolute;
+    margin-top:-280px;
+    right: 28%;
+ }
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 30px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:90%;
+  }
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:86%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+    margin-top:330px;
+    margin-left:80%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:200px;
+    height:200px;
+ }
+ #reklam3{
+  margin-top:-690px;
+  margin-left:58%;
+  position:absolute;
+  border:2px solid rgb(161, 44, 197);
+  width:468px;
+  height:60px;
+ }
+ /*reklam son*/
+ /*Katagoriler */
+ 
+ .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:130px;
+    margin-left:77%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:480px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-top:90px;
+    margin-left:77%;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+  /*Katagoriler Son*/
+ /*Anime Açıklama */
+ .anime-aciklamasi-resim{
+  border: 2px solid blueviolet;
+  border-right:0 solid red;
+  width: 220px;
+  height: 230px;
+  margin-left: 170px;
+  margin-top: 100px;
+}
+.anime-iframe-deyis{
+  border: 0px solid blueviolet;
+  border-right:0 solid red;
+  border-top:0 solid red;
+  width:220px;
+  height: 368px;
+  float: left;
+  margin-left: 170px;
+ }
+ .anime-aciklamasi-iframe{
+  border: 2px solid blueviolet;
+  width: 500px;
+  height: 600px;
+  float: left;
+  margin-top: -234px;
+}
+.anime-iframe-deyis button{
+  width: 90%;
+  height: 30px;
+  background-color: #131313;
+  color:#fff;
+  margin-top: 10px;
+  border: 2px solid blueviolet;
+}
+.anime-iframe-deyis button:hover{
+  background-color: blueviolet;
+}
+ /*Anime Açıklama Son*/
+}
+@media screen and (min-width:1000px) and (max-width:1250px){
+  footer{
+    width:100%;
+    height:100px;
+    background-color:#070707;
+    margin-top:880px;
+   }
+  /*menü ayar*/
+  .menul{
+     position: absolute;
+     left:0px;
+     top:10px;
+  }
+  .menu-chibi{
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 7%;
+  }
+  /* menü ayar son*/
+  /* slider ayar*/
+ .item{
+    border:1px solid rgb(161, 44, 197);
+    width:130px;
+    height:195px;
+    background-color:red;
+ }
+ .donenmenu{
+    width:700px;
+    height:200px;
+    position:absolute;
+    margin-top:-280px;
+    right: 28%;
+ }
+ /* slider ayar son*/
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 30px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:90%;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:86%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+    margin-top:480px;
+    margin-left:40%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:400px;
+    height:200px;
+ }
+ #reklam3{ /*menu yanı reklam*/
+    margin-top:-690px;
+    margin-left:52%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:468px;
+    height:60px;
+ }
+ /*reklam son*/
+ /*Katagoriler */
+ 
+ .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:750px;
+    margin-left:5%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:280px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-left:5%;
+    margin-top:710px;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+
+  /*Katagoriler Son*/
+ /*Anime Açıklama */
+ .anime-aciklamasi-resim{
+  border: 2px solid blueviolet;
+  border-right:0 solid red;
+  width: 220px;
+  height: 230px;
+  margin-left: 170px;
+  margin-top: 100px;
+}
+.anime-iframe-deyis{
+  border: 0px solid blueviolet;
+  border-right:0 solid red;
+  border-top:0 solid red;
+  width:220px;
+  height: 368px;
+  float: left;
+  margin-left: 170px;
+ }
+ .anime-aciklamasi-iframe{
+  border: 2px solid blueviolet;
+  width: 500px;
+  height: 600px;
+  float: left;
+  margin-top: -234px;
+}
+.anime-iframe-deyis button{
+  width: 90%;
+  height: 30px;
+  background-color: #131313;
+  color:#fff;
+  margin-top: 10px;
+  border: 2px solid blueviolet;
+}
+.anime-iframe-deyis button:hover{
+  background-color: blueviolet;
+}
+ /*Anime Açıklama Son*/
+
+}
+@media screen and (min-width:913px) and (max-width:999px){
+  footer{
+    width:100%;
+    height:100px;
+    background-color:#070707;
+    margin-top:880px;
+   }
+  /* Menü ayar*/
+  .menul{
+     position: absolute;
+     left:-30px;
+     top:10px;
+  }
+  .menu-chibi{
+     display: none;
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 1%;
+  }
+  /*Menü ayar son*/
+  /* Slider ayar*/
+ .item{
+    border:1px solid rgb(161, 44, 197);
+    width:130px;
+    height:195px;
+    background-color:red;
+ }
+ .donenmenu{
+    width:700px;
+    height:200px;
+    position:absolute;
+    margin-top:-280px;
+    right: 10%;
+ }
+  /*Slider ayar son*/
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 30px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:90%;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:86%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+  margin-top:480px;
+  margin-left:40%;
+  position:absolute;
+  border:2px solid rgb(161, 44, 197);
+  width:400px;
+  height:200px;
+}
+ #reklam3{  
+  margin-top:-690px;
+  margin-left:58%;
+  position:absolute;
+  border:2px solid rgb(161, 44, 197);
+  width:320px;
+  height:50px;
+ }
+ /*reklam son*/
+  /*Katagoriler */
+ 
+  .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:750px;
+    margin-left:5%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:280px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-left:5%;
+    margin-top:710px;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+
+  /*Katagoriler Son*/
+ /*Anime Açıklama */
+ .anime-aciklamasi-resim{
+  border: 2px solid blueviolet;
+  border-right:0 solid red;
+  width: 220px;
+  height: 230px;
+  margin-left: 170px;
+  margin-top: 100px;
+}
+.anime-iframe-deyis{
+  border: 0px solid blueviolet;
+  border-right:0 solid red;
+  border-top:0 solid red;
+  width:220px;
+  height: 368px;
+  float: left;
+  margin-left: 170px;
+ }
+ .anime-aciklamasi-iframe{
+  border: 2px solid blueviolet;
+  width: 500px;
+  height: 600px;
+  float: left;
+  margin-top: -234px;
+}
+.anime-iframe-deyis button{
+  width: 90%;
+  height: 30px;
+  background-color: #131313;
+  color:#fff;
+  margin-top: 10px;
+  border: 2px solid blueviolet;
+}
+.anime-iframe-deyis button:hover{
+  background-color: blueviolet;
+}
+ /*Anime Açıklama Son*/
+}
+@media screen and (min-width:713px) and (max-width:912px){
+  footer{
+    width:100%;
+    height:100px;
+    background-color:#070707;
+    margin-top:780px;
+   }
+ /* Menü Ayar*/
+  .menul{
+     position: absolute;
+     left:-50px;
+     top:10px;
+  }
+  .menu-chibi{
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 35%;
+     display: none;
+  }
+ /* Menü Ayar Son*/
+ /* Slider Ayar*/
+ .item{
+  border:1px solid rgb(161, 44, 197);
+  width:130px;
+  height:195px;
+  background-color:red;
+}
+.donenmenu{
+  width:700px;
+  height:200px;
+  position:absolute;
+  margin-top:-280px;
+  right: 1.5%;
+}
+ /* Slider Ayar Son*/
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 10px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:92%;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:84%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+  margin-top:450px;
+  margin-left:42%;
+  position:absolute;
+  border:2px solid rgb(161, 44, 197);
+  width:400px;
+  height:200px;
+}
+ #reklam3{
+    margin-top:680px;
+    margin-left:47%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:320px;
+    height:50px;
+ }
+ /*reklam son*/
+  /*Katagoriler */
+ 
+  .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:800px;
+    margin-left:5%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:280px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-left:5%;
+    margin-top:755px;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+
+  /*Katagoriler Son*/
+ /*Anime Açıklama */
+ .anime-aciklamasi-resim{
+  border: 2px solid blueviolet;
+  border-right:0 solid red;
+  width: 220px;
+  height: 230px;
+  margin-left: 2px;
+  margin-top: 100px;
+}
+.anime-iframe-deyis{
+  border: 0px solid blueviolet;
+  border-right:0 solid red;
+  border-top:0 solid red;
+  width:220px;
+  height: 368px;
+  float: left;
+  margin-left: 2px;
+ }
+ .anime-aciklamasi-iframe{
+  border: 2px solid blueviolet;
+  width: 476px;
+  height: 600px;
+  float: left;
+  margin-top: -602px;
+  margin-left: 224px;
+}
+.anime-iframe-deyis button{
+  width: 90%;
+  height: 30px;
+  background-color: #131313;
+  color:#fff;
+  margin-top: 10px;
+  border: 2px solid blueviolet;
+}
+.anime-iframe-deyis button:hover{
+  background-color: blueviolet;
+}
+ /*Anime Açıklama Son*/
+}
+@media screen and (min-width:499px) and (max-width:712px){
+  footer{
+    width:100%;
+    height:100px;
+    background-color:#070707;
+    margin-top:1350px;
+    }
+  /* Menü ayar*/
+  .menul{
+    position: absolute;
+    left:-30px;
+    top:10px;
+  }
+  .menu-chibi{
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 30%;
+     display: none;
+  }
+  /* Menü ayar son*/
+  /* Slider ayar*/
+  .item{
+    border:1px solid rgb(161, 44, 197);
+    width:110px;
+    height:165px;
+    background-color: red;
+ }
+ .donenmenu{
+  width:480px;
+  height:200px;
+  position:absolute;
+  margin-top:-280px;
+  right: 1.5%;
+}
+ /* Slider ayara son*/
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 10px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:89%;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:77%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+  #reklam2{
+    margin-top:1264px;
+    margin-left:15%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:320px;
+    height:50px;
+  }
+  #reklam3{
+    margin-top:-380px;
+    margin-left:17%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:320px;
+    height:50px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+ 
+  .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:1290px;
+    margin-left:22%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:280px;
+    color:#fff;
+ }
+ .katagori-baslik{
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-left:22%;
+    margin-top:1245px;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+
+  /*Katagoriler Son*/
+ /*Anime Açıklama */
+ .anime-aciklamasi-resim{
+  border: 2px solid blueviolet;
+  width: 220px;
+  height: 230px;
+  margin-left: 28%;
+  margin-top: 100px;
+}
+.anime-iframe-deyis{
+  border: 0px solid blueviolet;
+  border-right:0 solid red;
+  border-top:0 solid red;
+  width:95%;
+  height: 368px;
+  float: left;
+  margin-left: 1px;
+ }
+ .anime-aciklamasi-iframe{
+  border: 2px solid blueviolet;
+  width: 97%;
+  height: 600px;
+  float: left;
+  margin-left: 6px;
+  margin-top: -119px;
+}
+.anime-iframe-deyis button{
+  width: 90%;
+  height: 30px;
+  background-color: #131313;
+  color:#fff;
+  margin-top: 10px;
+  border: 2px solid blueviolet;
+}
+.anime-iframe-deyis button:hover{
+  background-color: blueviolet;
+}
+ /*Anime Açıklama Son*/
+}
+@media screen and (min-width:20px) and (max-width:498px){
+  .menul{
+     position: absolute;
+     left:-60px;
+     top:10px;
+  }
+  .menu-chibi{
+     display: none;
+     width: 200px;
+     position: absolute;
+     overflow:hidden;
+     top: 42%;
+     right: 30%;
+  }
+ /*içerik*/
+ .icerik-konum{
+    margin-left: 0%;
+    width: 100%;
+    height: 1700px;
+ }
+ /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+    border-radius: 20px;
+    background-color: #070707;
+    width: 198px;
+    height: 300px;
+    margin-left: 48px;
+    margin-bottom: 30px;
+    margin-top: 80px;  
+    padding-top:10px;
+    float:left;
+    border:1px solid  #070707;
+ }*/
+ .icerik-isim{
+    font-size:15px;
+    color:#fff;
+    font-weight: bold;
+    margin-bottom: 11px;
+    height: 13px;
+    width: 180px;
+    margin-left: 10px;
+    cursor: default;
+ }
+ .icerik-resim img{
+    width: 179px;
+    height: 200px;
+    border-radius:20px 20px 0 0;
+    border:1px solid  rgb(161, 44, 197);
+ }
+ .icerik-resim{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width:180px;
+    height:200px;
+ }
+ .icerik-dugme{
+    padding-top: 8px;
+    font-size:25px;
+    font-weight: bold;
+    color:#fff;
+    background-color:  rgb(161, 44, 197);
+    width: 150px;
+    height: 40px;
+    margin-left: 22px;
+    border-radius:10px 10px 10px 10px;
+    cursor: pointer;
+ }
+ .icerik-dugme:hover{
+    background-color:#111111 ;
+    color:  rgb(161, 44, 197);
+ }
+ .icerik-yer:hover{
+    border:1px solid  rgb(161, 44, 197);
+ }
+ .icerik-isim:hover{
+    color: rgb(161, 44, 197);
+ }
+ /*icerik son*/
+ .item{
+    border:1px solid rgb(161, 44, 197);
+    width:110px;
+    height:165px;
+ }
+ .donenmenu{
+    width:480px;
+    height:200px;
+    position:absolute;
+    margin-top:-280px;
+    right: 1.5%;
+ }
+ /*Duyurular*/
+ .konusma-balonu{
+    margin-left: 10px;
+    margin-top: 300px;
+    background-color:#070707;
+    float:left;
+    padding:10px 20px;
+    border-radius:5px;
+    font-size:20px;
+    position:absolute;
+    color: white;
+    margin-top: 20px;
+    width:85%;
+  }
+  
+  .konusma-balonu:after{
+    content: '';
+    position:absolute;
+    left: 30px;
+    top:-10px;
+    border-style: solid;
+    border-width: 0 15px 10px 15px;
+    border-color: transparent transparent #070707 transparent;  
+  }
+  
+ .duyurular{
+    font-weight: bold;
+    border-bottom: solid 1px  rgb(161, 44, 197);
+    text-align: left;
+    color:#fff;
+    float:left;
+    width:96px;
+    margin-top:2px;
+    margin-left:0px;
+ }
+ .duyurular-icerik{
+    font-weight: bold;
+    margin-top:5px;
+    margin-left: 3px;
+    width:67%;
+    float:left;
+    color:#fff;
+ }
+ /*duyurular son*/
+ /*reklam*/
+ #reklam2{
+    margin-top:894px;
+    margin-left:5%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:320px;
+    height:50px;
+ }
+ #reklam3{
+    margin-top:1075px;
+    margin-left:5%;
+    position:absolute;
+    border:2px solid rgb(161, 44, 197);
+    width:320px;
+    height:50px;
+ }
+ /*reklam son*/
+ /*Katagoriler */
+ 
+ .katagoriler{
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top:130px;
+    margin-left:75%;
+    position:absolute;
+    background-color:#070707;
+    border-radius:0 0 10px 10px;
+    border:2px solid rgb(161, 44, 197);
+    width:250px;
+    height:480px;
+    color:#fff;
+    display: none;
+ }
+ .katagori-baslik{
+    display: none;
+    position: absolute;
+    width:250px;
+    height: 40px;
+    color:blueviolet;
+    font-size: 23px;
+    border-radius:20px 20px 0 0;
+    margin-top:90px;
+    margin-left:75%;
+    padding-top: 5px;
+    background-color:#070707;
+    border:2px solid rgb(161, 44, 197);
+    border-bottom: 0 solid red;
+ }
+  /*Katagoriler Son*/
+/*Anime Açıklama */
+.anime-aciklamasi-resim{
+   border: 2px solid blueviolet;
+   width: 220px;
+   height: 230px;
+   margin-left: 20%;
+   margin-top: 100px;
+ }
+ .anime-iframe-deyis{
+   border: 0px solid blueviolet;
+   border-right:0 solid red;
+   border-top:0 solid red;
+   width:95%;
+   height: 368px;
+   float: left;
+   margin-left: 10px;
+  }
+  .anime-aciklamasi-iframe{
+   border: 2px solid blueviolet;
+   width: 97%;
+   height: 600px;
+   float: left;
+   margin-left: 2px;
+   margin-top: -119px;
+ }
+ .anime-iframe-deyis button{
+   width: 90%;
+   height: 30px;
+   background-color: #131313;
+   color:#fff;
+   margin-top: 10px;
+   border: 2px solid blueviolet;
+ }
+ .anime-iframe-deyis button:hover{
+   background-color: blueviolet;
+ }
+  /*Anime Açıklama Son*/
+ footer{
+ width:100%;
+ height:100px;
+ background-color:#070707;
+ margin-top:1200px;
+}
+}
+
+
+
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #131313;
+  text-align: center;
+  
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
+a {
+  text-decoration: none;
+}
+*{
+ outline:none;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 1px rgb(161, 44, 197);
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(161, 44, 197);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(161, 44, 197);
+}
+
+/* katagori*/  
+/* Sweep To Right */
+.hvr-sweep-to-right {
+  float: left;
+  color:white;
+  padding-top:10px;
+  width: 48%;
+  height: 30px;
+  background-color: #070707;
+  border: 1px solid #070707;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-right:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: blueviolet;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active {
+   color:white;
+}
+.hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+/* Sweep To Left */
+.hvr-sweep-to-left {
+  color:white;
+  float: left;
+  padding-top:10px;
+  width: 50.1%;
+  height: 30px;
+  background-color: #070707;
+  border: 1px solid #070707;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-left:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: blueviolet;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 100% 50%;
+  transform-origin: 100% 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-left:hover, .hvr-sweep-to-left:focus, .hvr-sweep-to-left:active {
+  color: white;
+}
+.hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+} 
+/* katagori son*/   
+
+/* Menü ayarları*/
+.menu{
+  margin-right: auto;
+  margin-left: auto;
+  width: auto;
+  height: auto;
+  position: relative;
+  overflow:hidden;
+}
+.menu ul{
+  display: inline-flex;
+  margin-right: auto;
+  margin-left: auto;
+  text-decoration: none;
+}
+.menu ul li{
+  list-style: none;
+  margin: auto;
+  font-size: 14px;
+  text-indent: 15px;
+  color: #fff;
+}
+.menu ul li img{
+  margin-right: auto;
+  margin-right: auto;
+  width: 130px;
+}
+.menu-arka{
+  display: block;
+  width:100%;
+  margin:-10px 0;
+  height: 400px;
+  filter: blur(8px);
+  -webkit-filter: blur(20px);
+}
+a.menu-eklenti{
+  text-decoration: none;
+  color: #fff;
+  font-family: monospace;
+}
+.menul li:nth-child(2):hover ~ .line{
+  left: 205px;
+  transform: translateY(24px);
+  background-color: purple;
+}
+.menul li:nth-child(3):hover ~ .line{
+  left: 288px;
+  transform: translateY(24px);
+  width: 70px;
+  background-color: purple;
+}
+.menul li:nth-child(4):hover ~ .line{
+  left: 376px;
+  transform: translateY(24px);
+  width: 25px;
+  background-color: purple;
+}
+.menul li:nth-child(5):hover ~ .line{
+  left: 420px;
+  transform: translateY(24px);
+  width: 70px;
+  background-color: purple;
+}
+.line{
+  width: 60px;
+  height: 1.4px;
+  left: 185px;
+  position: absolute;
+}
+/* Menü ayar Son*/

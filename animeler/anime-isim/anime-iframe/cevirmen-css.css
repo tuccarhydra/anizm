@@ -1,0 +1,14 @@
+.yuklemetur-sec-siralama{
+  color:#fff;
+  display: block;
+  width: 100%;
+  height: 26px;
+  padding-top: 4px;
+  border-bottom: 1px solid black;
+}
+.yuklemetur-sec-siralama:hover{
+  background-color: blueviolet;
+}
+a {
+  text-decoration: none;
+}

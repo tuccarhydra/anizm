@@ -1,0 +1,2171 @@
+@media screen and (min-width:1366px) {
+   footer{
+      width:100%;
+      height:100px;
+      background-color:#070707;
+      margin-top:280px;
+   }
+   .menul{
+      position: absolute;
+      left:10px;
+      top:10px;
+   }
+   .menu-chibi{
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 25%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     width: 1100px;
+     height: 1700px;
+  }
+
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:130px;
+     height:195px;
+     background-color:red;
+  }
+  .donenmenu{
+     width:700px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     margin-left:50px;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 30px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:1240px;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:1140px;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:630px;
+     margin-left:1080px;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:160px;
+     height:600px;
+  }
+  #reklam3{
+     margin-top:1270px;
+     margin-left:1080px;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:160px;
+     height:600px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:1060px;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+  }
+  .katagori-baslik{
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:1060px;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     width: 100%;
+     height: 30px;
+   }
+   .sayfa-geri{
+      float: left;
+      border:2px solid blueviolet;
+      border-radius: 10px 0 0 10px;
+      background-color: #131313;
+      color:grey;
+      width: 110px;
+      height: 20px;
+      padding-bottom: 3px;
+      margin-left: 400px;
+    }
+   /*sayfa deyiştirme kutucukları Son*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+     display:block;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+
+
+ }
+@media screen and (min-width:1251px) and (max-width:1365px){
+   footer{
+      width:100%;
+      height:100px;
+      background-color:#070707;
+      margin-top:140px;
+   }
+   .menul{
+      position: absolute;
+      left:10px;
+      top:10px;
+   }
+   .menu-chibi{
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 7%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     width: 80%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:130px;
+     height:195px;
+     background-color:red;
+  }
+  .donenmenu{
+     width:700px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     right: 28%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 30px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:90%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:86%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:630px;
+     margin-left:1080px;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:160px;
+     height:600px;
+  }
+  #reklam3{
+   margin-top:1245px;
+   margin-left:1080px;
+   position:absolute;
+   border:2px solid rgb(161, 44, 197);
+   width:160px;
+   height:600px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:80%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+  }
+  .katagori-baslik{
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:80%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     width: 100%;
+     height: 30px;
+   }
+   .sayfa-geri{
+      float: left;
+      border:2px solid blueviolet;
+      border-radius: 10px 0 0 10px;
+      background-color: #131313;
+      color:grey;
+      width: 110px;
+      height: 20px;
+      padding-bottom: 3px;
+      margin-left: 400px;
+    }
+      /*sayfa deyiştirme kutucukları son*/
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+     display:block;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+}
+@media screen and (min-width:1000px) and (max-width:1250px){
+   footer{
+      width:100%;
+      height:100px;
+      background-color:#070707;
+      margin-top:880px;
+   }
+   .menul{
+      position: absolute;
+      left:10px;
+      top:10px;
+   }
+   .menu-chibi{
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 7%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     width: 80%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:130px;
+     height:195px;
+     background-color:red;
+  }
+  .donenmenu{
+     width:700px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     right: 28%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 30px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:90%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:86%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+   margin-top:630px;
+   margin-left:810px;
+   position:absolute;
+   border:2px solid rgb(161, 44, 197);
+   width:160px;
+   height:600px;
+  }
+  #reklam3{
+     margin-top:1330px;
+     margin-left:810px;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:160px;
+     height:600px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:74%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+  }
+  .katagori-baslik{
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:74%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     width: 700px;
+     height: 30px;
+   }
+   .sayfa-geri{
+     float: left;
+     border:2px solid blueviolet;
+     border-radius: 10px 0 0 10px;
+     background-color: #131313;
+     color:grey;
+     width: 110px;
+     height: 20px;
+     padding-bottom: 3px;
+     margin-left: 400px;
+   }
+   /*sayfa deyiştirme kutucukları son*/
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: none;
+  }
+  .icerik-yer:hover span{
+     display: none;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+}
+@media screen and (min-width:840px) and (max-width:999px){
+   footer{
+      width:100%;
+      height:100px;
+      background-color:#070707;
+      margin-top:880px;
+   }
+   .menul{
+      position: absolute;
+      left:10px;
+      top:10px;
+   }
+   .menu-chibi{
+      display: none;
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 1%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     margin-left: 4%;
+     width: 90%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:130px;
+     height:195px;
+     background-color:red;
+  }
+  .donenmenu{
+     width:700px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     margin-left: 9%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 30px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:90%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:86%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:844px;
+     margin-left:13%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:468px;
+     height:60px;
+  }
+  #reklam3{
+     margin-top:1270px;
+     margin-left:13%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:468px;
+     height:60px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:75%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+     display: none;
+  }
+  .katagori-baslik{
+     display: none;
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:75%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     width: 700px;
+     height: 30px;
+   }
+   .sayfa-geri{
+     float: left;
+     border:2px solid blueviolet;
+     border-radius: 10px 0 0 10px;
+     background-color: #131313;
+     color:grey;
+     width: 110px;
+     height: 20px;
+     padding-bottom: 3px;
+     margin-left: 400px;
+   }
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 35px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+     display:block;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+}
+@media screen and (min-width:713px) and (max-width:839px){
+   footer{
+      width:100%;
+      height:100px;
+      background-color:#070707;
+      margin-top:980px;
+   }
+   .menul{
+      position: absolute;
+      left:10px;
+      top:10px;
+   }
+   .menu-chibi{
+      display: none;
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 1%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     margin-left: 0%;
+     width: 100%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:130px;
+     height:195px;
+     background-color:red;
+  }
+  .donenmenu{
+     width:700px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     right: 1.5%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 10px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:92%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:84%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:840px;
+     margin-left:5%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:468px;
+     height:60px;
+  }
+  #reklam3{
+     margin-top:1270px;
+     margin-left:5%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:468px;
+     height:60px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:75%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+     display: none;
+  }
+  .katagori-baslik{
+     display: none;
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:75%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     margin-left: -100px;
+     width: 700px;
+     height: 30px;
+   }
+   .sayfa-geri{
+     float: left;
+     border:2px solid blueviolet;
+     border-radius: 10px 0 0 10px;
+     background-color: #131313;
+     color:grey;
+     width: 110px;
+     height: 20px;
+     padding-bottom: 3px;
+     margin-left: 400px;
+   }
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 32px;
+     margin-bottom: 35px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+      display:none;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+}
+@media screen and (min-width:499px) and (max-width:712px){
+   .menul{
+      position: absolute;
+      left:-30px;
+      top:10px;
+   }
+   .menu-chibi{
+      display: none;
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 30%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     margin-left: 0%;
+     width: 100%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:110px;
+     height:165px;
+  }
+  .donenmenu{
+     width:480px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     right: 1.5%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 10px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:89%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:77%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:844px;
+     margin-left:17%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:320px;
+     height:50px;
+  }
+  #reklam3{
+     margin-top:1275px;
+     margin-left:17%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:320px;
+     height:50px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:75%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+     display: none;
+  }
+  .katagori-baslik{
+     display: none;
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:75%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     margin-left: -100px;
+     width: 550px;
+     height: 30px;
+   }
+   .sayfa-geri{
+     float: left;
+     border:2px solid blueviolet;
+     border-radius: 10px 0 0 10px;
+     background-color: #131313;
+     color:grey;
+     width: 110px;
+     height: 20px;
+     padding-bottom: 3px;
+     margin-left: 220px;
+   }
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 8%;
+     margin-bottom: 35px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+     display:none;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+  footer{
+	width:100%;
+	height:100px;
+	background-color:#070707;
+	margin-top:1900px;
+}
+}
+@media screen and (min-width:20px) and (max-width:498px){
+   .menul{
+      position: absolute;
+      left:-60px;
+      top:10px;
+   }
+   .menu-chibi{
+      display: none;
+      width: 200px;
+      position: absolute;
+      overflow:hidden;
+      top: 42%;
+      right: 30%;
+   }
+  /*içerik*/
+  .icerik-konum{
+     margin-left: 0%;
+     width: 100%;
+     height: 1700px;
+  }
+  /*.icerik-yer{  İÇERİK YER AŞŞAĞIDA (İÇERİK BİLGİ'DE) 
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 48px;
+     margin-bottom: 30px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }*/
+  .icerik-isim{
+     font-size:15px;
+     color:#fff;
+     font-weight: bold;
+     margin-bottom: 11px;
+     height: 13px;
+     width: 180px;
+     margin-left: 10px;
+     cursor: default;
+  }
+  .icerik-resim img{
+     width: 179px;
+     height: 200px;
+     border-radius:20px 20px 0 0;
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-resim{
+     margin-left: 10px;
+     margin-bottom: 10px;
+     width:180px;
+     height:200px;
+  }
+  .icerik-dugme{
+     padding-top: 8px;
+     font-size:25px;
+     font-weight: bold;
+     color:#fff;
+     background-color:  rgb(161, 44, 197);
+     width: 150px;
+     height: 40px;
+     margin-left: 22px;
+     border-radius:10px 10px 10px 10px;
+     cursor: pointer;
+  }
+  .icerik-dugme:hover{
+     background-color:#111111 ;
+     color:  rgb(161, 44, 197);
+  }
+  .icerik-yer:hover{
+     border:1px solid  rgb(161, 44, 197);
+  }
+  .icerik-isim:hover{
+     color: rgb(161, 44, 197);
+  }
+  /*icerik son*/
+  .item{
+     border:1px solid rgb(161, 44, 197);
+     width:110px;
+     height:165px;
+  }
+  .donenmenu{
+     width:480px;
+     height:200px;
+     position:absolute;
+     margin-top:-280px;
+     right: 1.5%;
+  }
+  /*Duyurular*/
+  .konusma-balonu{
+     margin-left: 10px;
+     margin-top: 300px;
+     background-color:#070707;
+     float:left;
+     padding:10px 20px;
+     border-radius:5px;
+     font-size:20px;
+     position:absolute;
+     color: white;
+     margin-top: 20px;
+     width:85%;
+   }
+   
+   .konusma-balonu:after{
+     content: '';
+     position:absolute;
+     left: 30px;
+     top:-10px;
+     border-style: solid;
+     border-width: 0 15px 10px 15px;
+     border-color: transparent transparent #070707 transparent;  
+   }
+   
+  .duyurular{
+     font-weight: bold;
+     border-bottom: solid 1px  rgb(161, 44, 197);
+     text-align: left;
+     color:#fff;
+     float:left;
+     width:96px;
+     margin-top:2px;
+     margin-left:0px;
+  }
+  .duyurular-icerik{
+     font-weight: bold;
+     margin-top:5px;
+     margin-left: 3px;
+     width:67%;
+     float:left;
+     color:#fff;
+  }
+  /*duyurular son*/
+  /*reklam*/
+  #reklam2{
+     margin-top:844px;
+     margin-left:5%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:320px;
+     height:50px;
+  }
+  #reklam3{
+     margin-top:1275px;
+     margin-left:5%;
+     position:absolute;
+     border:2px solid rgb(161, 44, 197);
+     width:320px;
+     height:50px;
+  }
+  /*reklam son*/
+  /*Katagoriler */
+  
+  .katagoriler{
+     overflow: hidden;
+     overflow-y: scroll;
+     margin-top:130px;
+     margin-left:75%;
+     position:absolute;
+     background-color:#070707;
+     border-radius:0 0 10px 10px;
+     border:2px solid rgb(161, 44, 197);
+     width:250px;
+     height:480px;
+     color:#fff;
+     display: none;
+  }
+  .katagori-baslik{
+     display: none;
+     position: absolute;
+     width:250px;
+     height: 40px;
+     color:blueviolet;
+     font-size: 23px;
+     border-radius:20px 20px 0 0;
+     margin-top:90px;
+     margin-left:75%;
+     padding-top: 5px;
+     background-color:#070707;
+     border:2px solid rgb(161, 44, 197);
+     border-bottom: 0 solid red;
+  }
+   /*Katagoriler Son*/
+   /*sayfa deyiştirme kutucukları*/
+   .sayfa-deyis-konum{
+     width: 100%;
+     height: 30px;
+   }
+   .sayfa-geri{
+     float: left;
+     border:2px solid blueviolet;
+     border-radius: 10px 0 0 10px;
+     background-color: #131313;
+     color:grey;
+     width: 110px;
+     height: 20px;
+     padding-bottom: 3px;
+     margin-left: 70px;
+   }
+   /*İçerik Bilgi Kutusu*/
+   .icerik-yer{
+     border-radius: 20px;
+     background-color: #070707;
+     width: 198px;
+     height: 300px;
+     margin-left: 20%;
+     margin-bottom: 35px;
+     margin-top: 80px;  
+     padding-top:10px;
+     float:left;
+     border:1px solid  #070707;
+  }
+   .icerik-bilgi-tur{
+     margin-left: 83px;
+     margin-top: -60px;
+     position: absolute;
+  }
+   .icerik-bilgi-bilgisi{
+     display: block;
+     margin-top: 30px;
+  }
+   .icerik-bilgi-baslik{
+     position: absolute;
+     margin-left: 83px;
+     margin-top: -90px;
+     border-bottom:1px solid blueviolet;
+  }
+   .icerik-yer:hover span{
+     display:none;
+  }
+   .icerik-yer span img{
+     height: 100px;
+     width: 70px;
+     margin-left: -127px;
+     border: 2px solid blueviolet;
+     border-top:0 solid red;
+     border-left:0 solid red;
+  }
+   .icerik-yer span{
+     display:none;
+     width: 200px;
+     height: 240px;
+     margin-top: 0px;
+     margin-left: 200px;
+     color:#fff;
+     border: 2px solid blueviolet;
+     background-color:#131313;
+     position: absolute;
+  }
+   .left{
+     display: none;
+     position: absolute;
+     border-right:16px solid blueviolet;
+     border-top:16px solid transparent;
+     border-bottom:16px solid transparent;
+     margin-left: 184px;
+     margin-top: 10px;
+  }
+   .icerik-yer:hover .left{
+     display: block;
+  }
+   .icerik-yer b {
+      border-bottom: 1px solid blueviolet;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: -10px;
+  }
+  /* Son*/
+  footer{
+	width:100%;
+	height:100px;
+	background-color:#070707;
+	margin-top:5200px;
+}
+}
+/* hepsinde geçerli kodlar aşşası*/
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #131313;
+    text-align: center;
+    /*yazıların seçilememesini sağlıyor(alttaki) */
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+a {
+   text-decoration:none; /* altı çizik kaldırma*/
+}
+*{
+	outline:none;
+}
+/* Scroll bar*/
+
+/* width */
+::-webkit-scrollbar {
+   width: 10px;
+ }
+ 
+ /* Track */
+ ::-webkit-scrollbar-track {
+   box-shadow: inset 0 0 1px rgb(161, 44, 197);
+   border-radius: 10px;
+ }
+  
+ /* Handle */
+ ::-webkit-scrollbar-thumb {
+   background: rgb(161, 44, 197);
+   border-radius: 10px;
+ }
+ 
+ /* Handle on hover */
+ ::-webkit-scrollbar-thumb:hover {
+   background: rgb(161, 44, 197);
+ }
+/* Scroll bar son*/
+   /* Katagoriler görsel kutu */
+.hvr-sweep-to-right {
+   float: left;
+   color:white;
+   padding-top:10px;
+   width: 48%;
+   height: 30px;
+   background-color: #070707;
+   border: 1px solid #070707;
+   display: inline-block;
+   vertical-align: middle;
+   -webkit-transform: perspective(1px) translateZ(0);
+   transform: perspective(1px) translateZ(0);
+   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+   position: relative;
+   -webkit-transition-property: color;
+   transition-property: color;
+   -webkit-transition-duration: 0.3s;
+   transition-duration: 0.3s;
+}
+.hvr-sweep-to-right:before {
+   content: "";
+   position: absolute;
+   z-index: -1;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background: blueviolet;
+   -webkit-transform: scaleX(0);
+   transform: scaleX(0);
+   -webkit-transform-origin: 0 50%;
+   transform-origin: 0 50%;
+   -webkit-transition-property: transform;
+   transition-property: transform;
+   -webkit-transition-duration: 0.3s;
+   transition-duration: 0.3s;
+   -webkit-transition-timing-function: ease-out;
+   transition-timing-function: ease-out;
+}
+.hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active {
+      color:white;
+}
+.hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before {
+   -webkit-transform: scaleX(1);
+   transform: scaleX(1);
+}
+   
+   /* Sweep To Left */
+.hvr-sweep-to-left {
+   color:white;
+   float: left;
+   padding-top:10px;
+   width: 50.1%;
+   height: 30px;
+   background-color: #070707;
+   border: 1px solid #070707;
+   display: inline-block;
+   vertical-align: middle;
+   -webkit-transform: perspective(1px) translateZ(0);
+   transform: perspective(1px) translateZ(0);
+   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+   position: relative;
+   -webkit-transition-property: color;
+   transition-property: color;
+   -webkit-transition-duration: 0.3s;
+   transition-duration: 0.3s;
+}
+.hvr-sweep-to-left:before {
+   content: "";
+   position: absolute;
+   z-index: -1;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background: blueviolet;
+   -webkit-transform: scaleX(0);
+   transform: scaleX(0);
+   -webkit-transform-origin: 100% 50%;
+   transform-origin: 100% 50%;
+   -webkit-transition-property: transform;
+   transition-property: transform;
+   -webkit-transition-duration: 0.3s;
+   transition-duration: 0.3s;
+   -webkit-transition-timing-function: ease-out;
+   transition-timing-function: ease-out;
+   }
+.hvr-sweep-to-left:hover, .hvr-sweep-to-left:focus, .hvr-sweep-to-left:active {
+   color: white;
+}
+.hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
+   -webkit-transform: scaleX(1);
+   transform: scaleX(1);
+}
+
+   /* Katagoriler görsel kutu son */
+
+   /* Menü ayarları*/
+.menu{
+   margin-right: auto;
+   margin-left: auto;
+   width: auto;
+   height: auto;
+   position: relative;
+   overflow:hidden;
+}
+.menu ul{
+   display: inline-flex;
+   margin-right: auto;
+   margin-left: auto;
+   text-decoration: none;
+}
+.menu ul li{
+   list-style: none;
+   margin: auto;
+   font-size: 14px;
+   text-indent: 15px;
+   color: #fff;
+}
+.menu ul li img{
+   margin-right: auto;
+   margin-right: auto;
+   width: 130px;
+
+}
+.menu-arka{
+   display: block;
+   width:100%;
+   margin:-10px 0;
+   height: 400px;
+   filter: blur(8px);
+   -webkit-filter: blur(20px);
+   }
+a.menu-eklenti{
+   text-decoration: none;
+   color: #fff;
+   font-family: monospace;
+}
+.menul li:nth-child(2):hover ~ .line{ 
+   left: 205px;
+   transform: translateY(24px);
+   background-color: purple;
+}
+.menul li:nth-child(3):hover ~ .line{
+   left: 288px;
+   transform: translateY(24px);
+   width: 70px;
+   background-color: purple;
+}
+.menul li:nth-child(4):hover ~ .line{
+   left: 376px;
+   transform: translateY(24px);
+   width: 25px;
+   background-color: purple;
+}
+.menul li:nth-child(5):hover ~ .line{
+   left: 420px;
+   transform: translateY(24px);
+   width: 70px;
+   background-color: purple;
+}
+.line{
+   width: 60px;
+   height: 1.4px;
+   left: 185px;
+   position: absolute;
+}
+/* Menü ayar Son*/
+
+   /* içerik */
+
+/*.icerik-yer{  İÇERİK YER YUKARDA (İÇERİK BİLGİ'DE) 
+   border-radius: 20px;
+   background-color: #070707;
+   width: 198px;
+   height: 300px;
+   margin-left: 48px;
+   margin-bottom: 30px;
+   margin-top: 80px;  
+   padding-top:10px;
+   float:left;
+   border:1px solid  #070707;
+}*/
+.icerik-isim{
+   font-size:15px;
+   color:#fff;
+   font-weight: bold;
+   margin-bottom: 11px;
+   height: 13px;
+   width: 180px;
+   margin-left: 10px;
+   cursor: default;
+}
+.icerik-resim img{
+   width: 179px;
+   height: 200px;
+   border-radius:20px 20px 0 0;
+   border:1px solid  rgb(161, 44, 197);
+}
+.icerik-resim{
+   margin-left: 10px;
+   margin-bottom: 10px;
+   width:180px;
+   height:200px;
+}
+.icerik-dugme{
+   padding-top: 8px;
+   font-size:25px;
+   font-weight: bold;
+   color:#fff;
+   background-color:  rgb(161, 44, 197);
+   width: 150px;
+   height: 40px;
+   margin-left: 22px;
+   border-radius:10px 10px 10px 10px;
+   cursor: pointer;
+}
+.icerik-dugme:hover{
+   background-color:#111111 ;
+   color:  rgb(161, 44, 197);
+}
+.icerik-yer:hover{
+   border:1px solid  rgb(161, 44, 197);
+}
+.icerik-isim:hover{
+   color: rgb(161, 44, 197);
+}
+/*icerik son*/
+/*sayfa deyiş*/
+ .sayfa-no{
+   float: left;
+   border:2px solid blueviolet;
+   border-left:0 solid red;
+   border-right:0 solid red;
+   background-color: #131313;
+   color:#fff;
+   width: 20px;
+   height: 20px; 
+   padding-top: 3px;
+}
+ .sayfa-ileri{
+   float: left;
+   border:2px solid blueviolet;
+   background-color: #131313;
+   color:#fff;
+   border-radius: 0 10px 10px 0;
+   width: 110px;
+   height: 20px; 
+   padding-bottom: 3px;
+}
+ .sayfa-ileri:hover{
+   background-color: blueviolet;
+ }
+ /*İçerik Bilgi Kutusu*/
